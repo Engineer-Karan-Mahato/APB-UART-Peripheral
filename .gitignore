@@ -1,0 +1,21 @@
+# Simulation files
+*.vcd
+*.wdb
+*.jou
+*.log
+*.pb
+*.str
+
+# Vivado files
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+
+# Backup files
+*~
+*.tmp
+
+# GTKWave
+*.gtkw
